@@ -1,3 +1,7 @@
 # Dasar Pemrogaman - Jobsheet 2
 
-Hello Github, ini adalah repository pertama saya.
+Nama    : Atthalaric Nero. M 
+Kelas   : 1C 
+No      : 05
+Jurusan : Teknologi Informasi
+Prodi   : Teknik Informatika 
